@@ -1,0 +1,1 @@
+cmd_/home/pasha/Desktop/git_repos/device_driver/Memory/Module.symvers := sed 's/\.ko$$/\.o/' /home/pasha/Desktop/git_repos/device_driver/Memory/modules.order | scripts/mod/modpost -m -a  -o /home/pasha/Desktop/git_repos/device_driver/Memory/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/pasha/Desktop/git_repos/device_driver/Memory/memory.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/pasha/Desktop/git_repos/device_driver/Memory/memory.ko /home/pasha/Desktop/git_repos/device_driver/Memory/memory.o /home/pasha/Desktop/git_repos/device_driver/Memory/memory.mod.o;  true
