@@ -1,1 +1,1 @@
-cmd_/home/pasha/Desktop/git_repos/device_driver/hello_driver/hello.mod := { echo  /home/pasha/Desktop/git_repos/device_driver/hello_driver/hello.o;  echo; } > /home/pasha/Desktop/git_repos/device_driver/hello_driver/hello.mod
+cmd_/home/pasha/Device-Driver-Generic/hello_driver/hello.mod := { echo  /home/pasha/Device-Driver-Generic/hello_driver/hello.o;  echo; } > /home/pasha/Device-Driver-Generic/hello_driver/hello.mod

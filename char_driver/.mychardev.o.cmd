@@ -1,0 +1,1 @@
+cmd_/home/pasha/Device-Driver-Generic/char_driver/mychardev.o := ld  -m elf_x86_64 -z noexecstack     -r -o /home/pasha/Device-Driver-Generic/char_driver/mychardev.o /home/pasha/Device-Driver-Generic/char_driver/char.o

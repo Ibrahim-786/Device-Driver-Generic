@@ -1,1 +1,1 @@
-cmd_/home/pasha/Desktop/git_repos/device_driver/hello_driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/pasha/Desktop/git_repos/device_driver/hello_driver/modules.order | scripts/mod/modpost -m -a  -o /home/pasha/Desktop/git_repos/device_driver/hello_driver/Module.symvers -e -i Module.symvers   -T -
+cmd_/home/pasha/Device-Driver-Generic/hello_driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/pasha/Device-Driver-Generic/hello_driver/modules.order | scripts/mod/modpost -m -a  -o /home/pasha/Device-Driver-Generic/hello_driver/Module.symvers -e -i Module.symvers   -T -

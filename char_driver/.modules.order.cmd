@@ -1,0 +1,1 @@
+cmd_/home/pasha/Device-Driver-Generic/char_driver/modules.order := {   echo /home/pasha/Device-Driver-Generic/char_driver/mychardev.ko; :; } | awk '!x[$$0]++' - > /home/pasha/Device-Driver-Generic/char_driver/modules.order
